@@ -6,7 +6,7 @@
 - Solution URL: [Solution URL](https://github.com/aleksandrre/GymSite)
 
 ## Screenshot
-![App Screenshot](![Uploading Screenshot (2).png…]())
+![App Screenshot](https://user-images.githubusercontent.com/108459639/231904911-92ebf34c-89b5-4c00-b21f-d84f7ffbdf9a.png)
 ## Built with
 - React
 ## Authors
